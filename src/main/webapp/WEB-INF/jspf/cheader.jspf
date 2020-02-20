@@ -1,0 +1,14 @@
+<header>
+    <h1>Sistema de Venta</h1>
+    <div class="botones">
+        <a href="login.jsp">
+         <i class="fas fa-sign-in-alt"></i><div class="boton">Login</div>
+        </a>
+        <a href="registro.jsp">
+         <i class="fas fa-user-plus"></i><div class="boton">Registro</div>
+        </a>
+        <a href="soporte.jsp">
+         <i class="fas fa-ambulance"></i><div class="boton">Soporte</div>
+        </a>
+    </div>  
+</header>
